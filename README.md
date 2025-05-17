@@ -2,7 +2,7 @@
 <!-- ------------------------- -->
 <!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
 
-<h1 align="center">Q-C</h1>
+<h1 align="center">C: What the Kernel is made of</h1>
 
 <h2 align="center"> Qompass AI on C</h2>
 
@@ -198,23 +198,6 @@ Where:
 ### A: AI models ~=10 billion(10B) parameters and below. For comparison, OpenAI's GPT4o contains approximately 200B parameters.
 
 </details>
-
-<details id="Zenodo DOI">
-  <summary><strong>Digital Object Identifier (DOI) for public transparency and accountability</strong></summary>
-Badge
-
-
-```markdown
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxx)
-```
-
----
-
-- See `.zenodo.json` for metadata, authorship, licensing, and related software attribution.
-</details>
-
-## 🧭 Attribution
-
 
 
 <details id="Dual-License Notice">
