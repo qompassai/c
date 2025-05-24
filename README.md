@@ -9,7 +9,7 @@
 <p align="center">
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-c)
-
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/c/total?style=flat-square)
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </a>
